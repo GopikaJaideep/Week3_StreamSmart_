@@ -1,0 +1,7 @@
+user_id,status,date,monthly_fee,age,subscription_length_days,is_active_subscription,months_active,revenue_estimate,country_code,country_name
+U001,active,2025-08-01,16.99,24.0,189,1,6,101.94,AU,
+U002,inactive,2025-01-15,27.99,,387,0,12,335.88,AU,
+U003,inactive,2025-11-20,27.99,22.0,78,0,2,55.98,US,
+U004,active,2025-12-05,27.99,,63,1,2,55.98,US,
+U005,inactive,2026-01-30,28.99,27.0,7,0,0,0.0,IN,
+U006,active,2025-12-02,17.99,,66,1,2,35.98,IN,
